@@ -1,8 +1,8 @@
-package Exercice3;
+package exercice3;
 
 import java.util.Scanner;
 
-public class sapinCouche {
+public class SapinCouche {
     public static void main(String[] args) {
 
         System.out.println("Saisissez la hauteur du sapin (superieur a 1) : ");
