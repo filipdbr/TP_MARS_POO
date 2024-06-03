@@ -1,6 +1,5 @@
 package exercice3;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class SapinVide {
@@ -43,6 +42,7 @@ public class SapinVide {
                 System.out.print("*");
 
             System.out.println();
+
 
         }
     }
